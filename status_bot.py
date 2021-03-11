@@ -3,7 +3,7 @@ import tweepy as tp
 consumer_key = '6PgknYt9iOWCKv52tjisdBUYQ'
 consumer_secret = 'PGGhzJ2oNiR97NBSveN3sVdig2iSSmNeNSlecxGraf2MV140Xb'
 access_token = '1361727452712607744-9mLoWCl12e1VfdyPvzAOIiQ5dayyVt'
-access_secret = 'lqjHFOGlnsjbnA8udCaCY47Zoo0arf3O3UeO1M8YOo9m8'
+access_secret = ''
 
 #Authenticate to twitter
 auth = tp.OAuthHandler(consumer_key,consumer_secret)
